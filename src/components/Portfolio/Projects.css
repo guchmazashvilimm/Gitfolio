@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Ubuntu&display=swap');
+/* img{
+    width: 380px;
+    height: 200px;
+    border: 2px solid rgb(112, 107, 107);
+} */
+.projects__container{
+    width: 750px;
+}
+/* .projects__card{
+    width: 500px;
+    height: 500px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+@media screen and  (max-width:350px){
+    .img{
+        width: 150px;
+        height: 100px;
+    }
+    .projects__card{
+        width: 200px;
+        height: 300px;
+    }
+} */
+.projects__card{
+    background-color: var(--container-color);
+    border: 1px solid rgba(0,0,0,0.1);
+    padding: 1.5rem 2rem;
+    border-radius: 1.5rem;
+    margin-bottom: var(--mb-3);
+
+}
+.projects__img{
+    width: 500px;
+    height: 270px;
+    border-radius: 3rem;
+    margin-bottom: var(--mb-1);
+    border: 1.5px solid rgb(112, 107, 107);
+}
+.projects__name{
+    font-weight: var(--font-medium);
+    margin-bottom: var(--mb-0-25);
+    
+}
+.projects__name a{
+    color: black;
+}
+.projects__name a:hover{
+    color:rgb(10, 10, 94);
+}
+.projects__description{
+    font-size: var(--normal-font-size);
+    font-family: 'Poppins', sans-serif;
+}
+.swiper-pagination-bullet{
+    background-color: var(--text-color) !important;
+
+}
+
+@media screen and (max-width: 992px){
+    .projects__container{
+        width: initial;
+        margin-right: 22px !important;
+    }
+    .projects__card{
+        padding: 1.25rem 1.5rem;
+    }
+
+}
+@media screen and (max-width:756px){
+    .projects__container{
+        width: initial;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin-right: 25px !important;
+    }
+    .projects__card{
+        padding: 1rem;
+    }
+}
+@media screen and (max-width:500px){
+    .projects__container{
+        margin-left: 0;
+        width: initial;
+        margin-right: 15px !important;
+
+    }
+    .projects__img{
+        width: 380px;
+        height: 225px;
+    }
+}
+@media screen and (max-width:400px){
+    .projects__container{
+        width: initial;
+
+    }
+    .projects__img{
+        width: 300px;
+        height: 170px;
+    }
+}
+.projects__btn{
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important; 
+}
+
+
+.projects{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+
+
