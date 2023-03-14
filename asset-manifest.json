@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Gitfolio/static/css/main.e0495ebb.css",
-    "main.js": "/Gitfolio/static/js/main.3cfae9d1.js",
+    "main.css": "/Gitfolio/static/css/main.26d3ae9a.css",
+    "main.js": "/Gitfolio/static/js/main.7944f82e.js",
     "static/js/787.1ed0c42c.chunk.js": "/Gitfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/CV - Mariam Guchmazashvili.pdf": "/Gitfolio/static/media/CV - Mariam Guchmazashvili.5710c2a74945323b91ca.pdf",
     "static/media/profile.jpg": "/Gitfolio/static/media/profile.f6e76ffd7d6b6eeb5b05.jpg",
@@ -10,12 +10,12 @@
     "static/media/todolist.jpg": "/Gitfolio/static/media/todolist.7a1950cfedff932a983e.jpg",
     "static/media/hello_world.png": "/Gitfolio/static/media/hello_world.05bfbe578e35d945abd5.png",
     "index.html": "/Gitfolio/index.html",
-    "main.e0495ebb.css.map": "/Gitfolio/static/css/main.e0495ebb.css.map",
-    "main.3cfae9d1.js.map": "/Gitfolio/static/js/main.3cfae9d1.js.map",
+    "main.26d3ae9a.css.map": "/Gitfolio/static/css/main.26d3ae9a.css.map",
+    "main.7944f82e.js.map": "/Gitfolio/static/js/main.7944f82e.js.map",
     "787.1ed0c42c.chunk.js.map": "/Gitfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0495ebb.css",
-    "static/js/main.3cfae9d1.js"
+    "static/css/main.26d3ae9a.css",
+    "static/js/main.7944f82e.js"
   ]
 }
